@@ -1,7 +1,7 @@
 # Search Project
 ## Requirements
 
-- PHP 8
+- PHP 7
 - Apache 
 - MySQL 8
 - Composer 2.1.6
